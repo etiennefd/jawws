@@ -4,7 +4,7 @@ permalink: /support/
 Title: Support
 ---
 
-# Put the 'M' in Maximum New York
+# Put the 'W' in Maximum New York
 
 Here’s what it will go toward:
 - Paying me 
