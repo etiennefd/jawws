@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <!--added the color style below for page/post header text color-->
-    <a class="site-title" rel="author" style="color:rgb(255, 255, 255)" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" style="color:rgb(255, 255, 255); text-transform: lowercase; font-size: 3em;" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <br>
     <nav class="menu">
       <a style="color:rgb(255, 255, 255)" href="/about">About</a><span style="color:rgb(255, 255, 255)"> ·</span>
