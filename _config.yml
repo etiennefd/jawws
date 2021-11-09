@@ -35,7 +35,7 @@ github_username: etiennefd
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  skin: classic
+  skin: solarized
   date_format: "%e %B %Y"
 
 plugins:

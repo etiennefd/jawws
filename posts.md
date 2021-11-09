@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /articles/
-title: Research Articles
+permalink: /blog/
+title: Blog
 ---
 
   <!--I took this code from _layouts/home.html and put it here-->

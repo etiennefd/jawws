@@ -10,8 +10,8 @@ layout: home
 
 ## Science should be more accessible.
 
-The current system to officially communicate scientific results has problems. One of them is the language used. Science papers are written in a style of English that makes them more tedious than should be the case, even taking into account the complexity of scientific matters.
+The current system of science publishing, which is seen as almost the only official way to communicate the results of science, is ridden with problems. One of them is the quality of the writing. 
 
-JAWWS fixes this.
+The Journal of Accessible and Well-Written Science, JAWWS, seeks to fix this by promoting better writing norms. 
 
-The website is under construction. Come back soon!
+The website is under construction. While we get things set up, [read more about the project here](/about).
