@@ -1,9 +1,14 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec
 
-gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
-gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
-gem "webrick", "~> 1.7"
+# gem "rails"
+
+gem "jekyll", "~> 4.2"
+group :jekill_plugins do
+  gem 'jekyll-sitemap'
+  gem 'jekyll-feed'
+  gem 'jekyll-seo-tag'
+end
