@@ -21,10 +21,9 @@
 title: JAWWS
 email: contact@etiennefd.com
 description: >- # this means to ignore newlines until "baseurl:"
-  JAWWS — the Journal of Accessible and Well-Written Science — 
-  is a new publishing platform for science that focusses on readability. 
-  Its ultimate goal is to change the writing norms for science in order to 
-  accelerate progress.
+  A project and publishing platform to improve the readability of science, 
+  change the writing norms, 
+  and accelerate progress.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: etiennefd

@@ -8,11 +8,11 @@ Scientific papers are too difficult to read. There is no good reason for this. Y
 
 The Journal of Accessible and Well-Written Science (JAWWS) seeks to change this. We want to promote better writing norms by publishing highly readable science papers, both old and new. Ultimately, we hope to make it easier for scientists to communicate among themselves, and for the public to gain better access to the primary sources of science without needing a layer of science communicators to "translate" science.
 
-[Read the original essay that led to the birth of this project](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/)
+The [original essay](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/) that led to the birth of this project was published on Étienne's blog. It described a basic plan of rewriting papers to demonstrate that science could be written in a better way, publishing them in a new journal, and accruing prestige over time to compete with top journals. As of late 2021, we're not sure this is the right approach, and we have switched to researching the state of science publishing in order to come up with a plan forward. 
 
 ## Background
 
-This project was imagined by [Étienne Fortier-Dubois](https://etiennefd.com) in the summer of 2021. Étienne used to be on track for a career as an academic in evolutionary biology, but decided to quit after his master's degree in 2016.
+This project was imagined by [Étienne Fortier-Dubois](https://etiennefd.com) in the summer of 2021. In recent years, Étienne has been an online writer and a programmer. He used to aim for an academic career as an evolutionary biologist, but decided to quit science after his master's degree in 2016, in part due to the tediousness of reading scientific papers.
 
 ## Contact and Support
 

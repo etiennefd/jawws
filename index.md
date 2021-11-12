@@ -8,10 +8,16 @@
 layout: home
 ---
 
-## Science should be more accessible.
+## Science can and should be more accessible.
 
-The current system of science publishing, which is seen as almost the only official way to communicate the results of science, is ridden with problems. One of them is the quality of the writing. 
+The current system of science publishing, which is seen as almost the only official way to communicate the results of science, is ridden with problems. One of them is the quality of the writing. The primary sources of science — papers — are needlessly difficult to understand even among scientists.
 
-The Journal of Accessible and Well-Written Science, JAWWS, seeks to fix this by promoting better writing norms. 
+The Journal of Accessible and Well-Written Science, JAWWS, seeks to fix this by researching, promoting, and demonstrating better writing norms. 
 
-The website is under construction. While we get things set up, [read more about the project here](/about).
+[Read more about the project here](/about).
+
+---
+
+<img src="/images/matteucci.png">
+
+*Screenshot from a 1859 physiology paper, showing the elegant writing style of the time.*
