@@ -40,4 +40,4 @@ This page contains links to various web resources about science publishing and w
 
 ### General science improvement
 - [New Science](https://newscience.org/), founded by Alexey Guzey, seeks to establish new models of funding and organizing the institutions of science. They have generously funded me to work on JAWWS for a few months.
-- [ResearchHub](https://www.researchhub.com/), the "Reddit" of science
+- [ResearchHub](https://www.researchhub.com/), the Reddit of science
