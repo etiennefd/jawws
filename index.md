@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-image: /assets/images/matteucci.png
+image: https://jawws.org/assets/images/matteucci.png
 ---
 
 ## Science can and should be more accessible.
