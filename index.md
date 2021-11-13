@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+image: "/assets/images/matteucci.png"
 ---
 
 ## Science can and should be more accessible.
@@ -18,6 +19,6 @@ The Journal of Accessible and Well-Written Science, JAWWS, seeks to fix this by 
 
 ---
 
-<img src="/images/matteucci.png">
+<img src="/assets/images/matteucci.png">
 
 *Screenshot from a 1859 physiology paper, showing the elegant writing style of the time.*
