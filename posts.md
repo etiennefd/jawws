@@ -20,10 +20,15 @@ title: Blog
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <!-- (date for each post, replaced by code to display only months) <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+        {% assign currentdate = post.date | date: "%B %Y" %}
+          {% if currentdate != date %}
+            <li id="y{{currentdate}}">{{ currentdate }}</li>
+            {% assign date = currentdate %} 
+          {% endif %}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            • {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}

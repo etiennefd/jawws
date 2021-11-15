@@ -33,7 +33,7 @@ This page contains links to various web resources about science publishing and w
 ## Organizations
 
 ### Interesting publishing platforms and journals
-- [Distill](https://distill.pub/) is a journal for machine learning that shares a lot of values. Since July 2021, they are on hiatus. The [post explaining their reasons](https://distill.pub/2021/distill-hiatus/) for this contains several insights on the present and future of science publishing.
+- [Distill](https://distill.pub/) is a journal for machine learning that shares a lot of JAWWS's values. Since July 2021, they are on hiatus. The [post explaining their reasons](https://distill.pub/2021/distill-hiatus/) for this contains several insights on the present and future of science publishing.
 - [Seeds of Science](https://www.theseedsofscience.org/) is a new peer-reviewed journal that publishes short articles that have the potential to advance science, with more freedom than traditional scientific papers.
 - [microPublication](https://www.micropublication.org/) "publishes brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative" and is peer-reviewed.
 - [JoVE](https://www.jove.com/), the Journal of Visualized Experiments, a rare example of a video-based scientific journal.
