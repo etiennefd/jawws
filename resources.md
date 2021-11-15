@@ -30,6 +30,10 @@ This page contains links to various web resources about science publishing and w
 ### Books
 - [*Making Nature*](https://www.google.com/books/edition/Making_Nature/bqcQCgAAQBAJ), on the history of the top journal *Nature*.
 
+### Twitter
+- [Cory Doctorow on the scam of scientific publishing in general](https://twitter.com/doctorow/status/1453753539726094341?s=20).
+- [Comparison of two _Nature_ paper introductions](https://twitter.com/kulesatony/status/1457341823442198528?s=20), one narrative and exciting, and one passive and boring.
+
 ## Organizations
 
 ### Interesting publishing platforms and journals
