@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Journal of Actually Well-Written Science"
-date:   2021-07-24 13:46:31 -0500
+date:   2021-07-26 13:46:31 -0500
 categories: blog
 ---
 
@@ -34,9 +34,9 @@ ___
 
 This post contains three main sections:
 
--   [What makes scientific papers difficult to read?](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/#why-papers-are-difficult)
--   [Why is scientific style so bad?](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/#why-style-is-bad)
--   [How can we forge better norms?](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/#better-norms)
+-   What makes scientific papers difficult to read?
+-   Why is scientific style so bad?
+-   How can we forge better norms?
 
 If you’re short on time, please read the third one, which includes the sketch of a plan to improve scientific style. The other two sections provide background and justification for the plan.
 
