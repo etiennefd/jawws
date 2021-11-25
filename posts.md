@@ -23,7 +23,7 @@ title: Blog
         <!-- (date for each post, replaced by code to display only months) <span class="post-meta">{{ post.date | date: date_format }}</span> -->
         {% assign currentdate = post.date | date: "%B %Y" %}
           {% if currentdate != date %}
-            <li id="y{{currentdate}}">{{ currentdate }}</li>
+            <li id="y{{currentdate}}"><br>{{ currentdate }}</li>
             {% assign date = currentdate %} 
           {% endif %}
         <h3>
