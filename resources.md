@@ -4,7 +4,7 @@ permalink: /resources/
 title: Resources
 ---
 
-This page contains links to various web resources about science publishing and writing style. It will be updated over time.
+This page contains links to various web resources about science publishing and writing style. It will be updated over time. For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/).
 
 ## Reading
 ### Literature on science publishing
@@ -45,3 +45,6 @@ This page contains links to various web resources about science publishing and w
 ### General science improvement
 - [New Science](https://newscience.org/), founded by Alexey Guzey, seeks to establish new models of funding and organizing the institutions of science. They have generously funded me to work on JAWWS for a few months.
 - [ResearchHub](https://www.researchhub.com/), the Reddit of science, is a place where scientists can share, rank, and discuss papers.
+
+<!-- ### Decentralized science
+- [VitaDAO] is using the DAO model to fund longevity research -->

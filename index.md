@@ -17,6 +17,10 @@ The Journal of Accessible and Well-Written Science, JAWWS, seeks to fix this by 
 
 [Read more about the project here](/about).
 
+Or subscribe to occasional updates:
+
+<iframe src="https://jawws.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white; display:block; margin:auto;" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 <img src="/assets/images/matteucci.png">

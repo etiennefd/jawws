@@ -18,4 +18,6 @@ This project was imagined by [Étienne Fortier-Dubois](https://etiennefd.com) in
 
 For now, the best way to contact us is to write a message to [Étienne on Twitter](https://twitter.com/etiennefd/). 
 
-JAWWS has received support from [New Science](https://newscience.org/) and began during a residency at [Creator Cabins](https://www.creatorcabins.com/). We will set up new options to receive support soon.
+JAWWS has received support from [New Science](https://newscience.org/) and began during a residency at [Creator Cabins](https://www.creatorcabins.com/). We will set up new options to receive support soon. In the meantime, the best way to show your support is to subscribe to our updates newsletter:
+
+<iframe src="https://jawws.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white; display:block; margin:auto;" frameborder="0" scrolling="no"></iframe>
