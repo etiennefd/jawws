@@ -13,8 +13,10 @@ This page contains links to various web resources about science publishing and w
 - [Does it take too long to publish research?](https://www.nature.com/articles/530148a) From the news section of *Nature* in 2016.
 
 ### Style guides
-- [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) from Scott Alexander. Not intended for science necessarily, but very useful in any case.
+- [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) by Scott Alexander. Not intended for science necessarily, but very useful in any case.
 - [Formatting guide](https://www.nature.com/nature/for-authors/formatting-guide) for the journal *Nature*, useful as an example of what is seen as the best guidelines for a top journal.
+- [Write Like You Talk](http://www.paulgraham.com/talk.html), an essay by Paul Graham. It makes a simple point: your written sentences should sound the same as if you were saying them to a friend. Scientific writing would be in much better shape if scientists did that.
+- [Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf) by Donald E. Knuth and others. A PDF whose first few pages contain excellent advice on how to write math in a clear way.
 
 ### Examples of well-written papers
 - [World Models](https://worldmodels.github.io/), an example of a paper hosted as its own website with Github Pages. See also its [GitHub repository](https://github.com/worldmodels/worldmodels.github.io).
