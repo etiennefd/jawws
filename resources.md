@@ -14,16 +14,17 @@ This page contains links to various web resources about science publishing and w
 
 ### Style guides
 - [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) by Scott Alexander. Not intended for science necessarily, but very useful in any case.
-- [Formatting guide](https://www.nature.com/nature/for-authors/formatting-guide) for the journal *Nature*, useful as an example of what is seen as the best guidelines for a top journal.
+- [Formatting guide for the journal *Nature*](https://www.nature.com/nature/for-authors/formatting-guide), useful as an example of what is seen as the best guidelines for a top journal.
 - [Write Like You Talk](http://www.paulgraham.com/talk.html), an essay by Paul Graham. It makes a simple point: your written sentences should sound the same as if you were saying them to a friend. Scientific writing would be in much better shape if scientists did that.
 - [Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf) by Donald E. Knuth and others. A PDF whose first few pages contain excellent advice on how to write math in a clear way.
 
 ### Examples of well-written papers
 - [World Models](https://worldmodels.github.io/), an example of a paper hosted as its own website with Github Pages. See also its [GitHub repository](https://github.com/worldmodels/worldmodels.github.io).
 
-### Crypto and Web3
+### Crypto and web3
 - [Magna Carta Scientiae](https://atoms.org/scientiae), a detailed description of the current problems in science and how Ethereum smart contracts could help.
 - [Tokenized Thoughts](https://0xboodle.substack.com/p/tokenized-thought), on various ways crypto could help academic science.
+- [Why We Need To Fundamentally Rethink Scientific Publishing](https://desci.medium.com/why-we-need-to-fundamentally-rethink-scientific-publishing-43f2ae39af76), a 2021 article by the DeSci Foundation that describes the problems in science publishing and proposes a formal mathematical model of what journals do to advance science.
 
 ### Other articles
 - [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science) A 2017 journalism piece on the history of science publishing, focussing on tycoon Robert Maxwell.
@@ -38,15 +39,19 @@ This page contains links to various web resources about science publishing and w
 
 ## Organizations
 
-### Interesting publishing platforms and journals
-- [Distill](https://distill.pub/) is a journal for machine learning that shares a lot of JAWWS's values. Since July 2021, they are on hiatus. The [post explaining their reasons](https://distill.pub/2021/distill-hiatus/) for this contains several insights on the present and future of science publishing.
+### Journals
+- [Distill](https://distill.pub/) is a journal for machine learning that shares a lot of JAWWS's values. Since July 2021, they are on hiatus. The [post explaining their reasons for suspending their work](https://distill.pub/2021/distill-hiatus/) contains several insights on the present and future of science publishing.
 - [Seeds of Science](https://www.theseedsofscience.org/) is a new peer-reviewed journal that publishes short articles that have the potential to advance science, with more freedom than traditional scientific papers.
 - [microPublication](https://www.micropublication.org/) "publishes brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative" and is peer-reviewed.
 - [JoVE](https://www.jove.com/), the Journal of Visualized Experiments, a rare example of a video-based scientific journal.
 
-### General science improvement
-- [New Science](https://newscience.org/), founded by Alexey Guzey, seeks to establish new models of funding and organizing the institutions of science. They have generously funded me to work on JAWWS for a few months.
+### Organizations that try to improve science publishing
 - [ResearchHub](https://www.researchhub.com/), the Reddit of science, is a place where scientists can share, rank, and discuss papers.
+- [OADAO](https://oadao.org) or OpenAccessDAO is a new decentralized autonomous organization trying to figure out a way to reform science publishing from a web3 and community angle.
 
-<!-- ### Decentralized science
-- [VitaDAO] is using the DAO model to fund longevity research -->
+### Other science improvement
+- [New Science](https://newscience.org/), founded by Alexey Guzey, seeks to establish new models of funding and organizing the institutions of science. They have generously funded me to work on JAWWS for a few months.
+
+<br>
+
+*Last updated: 8 December 2021*
