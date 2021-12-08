@@ -23,6 +23,14 @@ Or subscribe to occasional updates:
 
 ---
 
+<br>
+
 <img src="/assets/images/matteucci.png">
 
-*Screenshot from a 1859 physiology paper, showing the elegant writing style of the time.*
+*Screenshot from an 1859 frog physiology paper, showing the elegant writing style of the time.*
+
+<br>
+
+<img src="/assets/images/modern frog paper.png" width=450px style="display:block; margin:auto;">
+
+*Abstract of a 2019 [frog physiology paper](https://journals.biologists.com/jeb/article/222/12/jeb204149/20404/Molecular-physiology-of-chemical-defenses-in-a). Which paper would you rather read?*
