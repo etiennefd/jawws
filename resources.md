@@ -7,10 +7,11 @@ title: Resources
 This page contains links to various web resources about science publishing and writing style. It will be updated over time. For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/).
 
 ## Reading
-### Literature on science publishing
+### Literature on science publishing and communication
 - [The readability of scientific texts is decreasing over time](https://elifesciences.org/articles/27725). This 2017 study analyzed 700,000 abstracts from the past 140 years and concluded that readability, as measured by standard formulas using things like number of words per sentence and use of jargon, has steadily decreased.
 - [You have to read this](https://www.nature.com/articles/s41562-021-01221-6). A 2021 comment in *Nature Human Behaviour* arguing that narrative writing should be used in science papers.
 - [Does it take too long to publish research?](https://www.nature.com/articles/530148a) From the news section of *Nature* in 2016.
+- [Writing Accessible Theory in Ecology and Evolution: Insights from Cognitive Load Theory](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biab133/6482999?redirectedFrom=fulltext). Various ways to ease communication from biological theorists (who use a lot of math) to empiricists (who aren't always super familiar with math). Generalizes well, and provides useful discussion on cognitive load theory.
 
 ### Style guides
 - [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) by Scott Alexander. Not intended for science necessarily, but very useful in any case.
@@ -36,6 +37,7 @@ This page contains links to various web resources about science publishing and w
 ### Twitter
 - [Cory Doctorow on the scam of scientific publishing in general](https://twitter.com/doctorow/status/1453753539726094341?s=20).
 - [Comparison of two _Nature_ paper introductions](https://twitter.com/kulesatony/status/1457341823442198528?s=20), one narrative and exciting, and one passive and boring.
+- [Example of the style of scientific communication in 1775](https://twitter.com/metaflav/status/1469387267844231171?s=20)
 
 ## Organizations
 
@@ -54,4 +56,4 @@ This page contains links to various web resources about science publishing and w
 
 <br>
 
-*Last updated: 8 December 2021*
+*Last updated: 14 January 2022*
