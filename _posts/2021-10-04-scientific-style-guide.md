@@ -56,11 +56,11 @@ I will update this list as I publish the posts.
 
 In the meantime, here’s a very informal list of topics I might cover:
 
--   [Abbreviations](https://etiennefd.com/dgm/science-style-guide-abbreviations/)
--   [Paragraph length](https://etiennefd.com/dgm/science-style-guide-paragraph-length/)
--   [Giving examples](https://etiennefd.com/dgm/science-style-guide-giving-examples/)
--   [Bullet points](https://etiennefd.com/dgm/science-style-guide-bullet-points/)
--   [Links](https://etiennefd.com/dgm/science-style-guide-links/)
+-   [Abbreviations](https://jawws.org/blog/2021/10/05/abbreviations.html)
+-   [Paragraph length](https://jawws.org/blog/2021/10/08/paragraph-length.html)
+-   [Giving examples](https://jawws.org/blog/2021/10/12/examples.html)
+-   [Bullet points](https://jawws.org/blog/2021/10/26/bullet-points.html)
+-   [Links](https://jawws.org/blog/2021/11/08/links-guidelines.html)
 -   Citations and references
 -   Point of view (1st vs 3rd person) and voice (active vs passive)
 -   Humor
