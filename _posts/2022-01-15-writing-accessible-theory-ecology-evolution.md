@@ -64,7 +64,7 @@ Sections a, b, and c all illustrate the same model of seed dispersion on three i
 
 ## Conclusions
 
-This paper formalizes some of the stuff I've been discussing with using my own bespoke vocabulary, like "reading friction" instead of "cognitive load." I suppose I was reinventing the wheel, not that there's shame in that. In fact, I'm happy to have found a more scholarly discussion of my ideas: it shows that some scientists also recognize that there are problems in intra-science communication, and care about improving the situation. 
+This paper formalizes some of the stuff I've been discussing with using my own bespoke vocabulary, like "reading friction" instead of "cognitive load." I suppose I was reinventing the wheel to some extent, not that there's any shame in that. In fact, I'm happy to have found a more scholarly discussion of my ideas: it shows that some scientists also recognize that there are problems in intra-science communication and care about improving the situation. 
 
 The paper is specific to theoretical biology, but it generalizes well, and its specificity actually makes it pleasantly concrete. I imagine I will be referencing this paper a lot from now on.
 
