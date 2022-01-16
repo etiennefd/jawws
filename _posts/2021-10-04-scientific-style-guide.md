@@ -61,13 +61,14 @@ In the meantime, here’s a very informal list of topics I might cover:
 -   [Giving examples](https://jawws.org/blog/2021/10/12/examples.html)
 -   [Bullet points](https://jawws.org/blog/2021/10/26/bullet-points.html)
 -   [Links](https://jawws.org/blog/2021/11/08/links-guidelines.html)
+-   [Figures](https://jawws.org/blog/2022/01/16/figures.html)
 -   Citations and references
 -   Point of view (1st vs 3rd person) and voice (active vs passive)
 -   Humor
 -   Flourishes, ornamentation
 -   Paper structure
 -   Length vs. clarity vs. density tradeoff
--   Figures
 -   Reading guidance (e.g. “read the methods section to understand what we did, but feel free to skip the more technical section 2.3”)
 -   Jargon, vocabulary, word choice
--   Writing in narrative form (a difficult skill!)
+-   Writing in narrative form
+-   Metaphors and analogies
