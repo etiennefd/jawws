@@ -13,7 +13,7 @@ image: https://jawws.org/assets/images/matteucci.png
 
 The current system of science publishing, which is seen as almost the only official way to communicate the results of science, is ridden with problems. One of them is the quality of the writing. The primary sources of science — papers — are needlessly difficult to understand even among scientists.
 
-The Journal of Accessible and Well-Written Science, JAWWS, seeks to fix this by researching, promoting, and demonstrating better writing norms. 
+The Journal of Accessible and Well-Written Science, JAWWS, seeks to fix the low accessibility of science by researching, promoting, and demonstrating better writing norms. 
 
 [Read more about the project here](/about).
 
