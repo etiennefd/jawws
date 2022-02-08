@@ -8,6 +8,12 @@ This page contains links to various web resources about science publishing and w
 
 For a curated list of the best resources, visit the [main Resources page](https://jawws.org/resources/). For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/).
 
+## Raw links, to be categorized!
+- https://www.timeshighereducation.com/blog/all-scientific-writing-can-be-improved-making-it-more-accessible
+- https://www.euroscientist.com/scientific-journals-more-accessible-to-the-general-public/
+- https://inclusivepublishing.org/blog/the-important-role-of-the-editor-in-making-science-accessible/
+- https://theconversation.com/accurate-science-or-accessible-science-in-the-media-why-not-both-59871
+
 ## Reading
 ### Literature on science publishing and communication
 - [The readability of scientific texts is decreasing over time](https://elifesciences.org/articles/27725). This 2017 study analyzed 700,000 abstracts from the past 140 years and concluded that readability, as measured by standard formulas using things like number of words per sentence and use of jargon, has steadily decreased.
