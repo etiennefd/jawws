@@ -1,17 +1,12 @@
 ---
 layout: page
-permalink: /resources/
-title: Resources
+permalink: /more-resources/
+title: Resources (full list)
 ---
 
-This page contains curated links to various web resources about science publishing and writing style. It will be updated over time. 
+This page contains links to various web resources about science publishing and writing style. It will be updated over time. 
 
-For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/). A longer, less curated list of resources [is also available here](https://jawws.org/more-resources/).
-
-## Raw links, to be categorized
-- https://www.timeshighereducation.com/blog/all-scientific-writing-can-be-improved-making-it-more-accessible
-- https://www.euroscientist.com/scientific-journals-more-accessible-to-the-general-public/
-- https://inclusivepublishing.org/blog/the-important-role-of-the-editor-in-making-science-accessible/
+For a curated list of the best resources, visit the [main Resources page](https://jawws.org/resources/). For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/).
 
 ## Reading
 ### Literature on science publishing and communication
