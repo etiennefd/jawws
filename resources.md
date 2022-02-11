@@ -26,8 +26,6 @@ For resources produced by JAWWS, head to the [blog section](https://jawws.org/bl
 
 ### Crypto and web3
 - [Magna Carta Scientiae](https://atoms.org/scientiae), a detailed description of the current problems in science and how Ethereum smart contracts could help.
-- [Tokenized Thoughts](https://0xboodle.substack.com/p/tokenized-thought), on various ways crypto could help academic science.
-- [Why We Need To Fundamentally Rethink Scientific Publishing](https://desci.medium.com/why-we-need-to-fundamentally-rethink-scientific-publishing-43f2ae39af76), a 2021 article by the DeSci Foundation that describes the problems in science publishing and proposes a formal mathematical model of what journals do to advance science.
 
 ### Other articles
 - [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science) A 2017 journalism piece on the history of science publishing, focussing on tycoon Robert Maxwell.
@@ -62,4 +60,4 @@ For resources produced by JAWWS, head to the [blog section](https://jawws.org/bl
 
 <br>
 
-*Last updated: 14 January 2022*
+*Last updated: 11 February 2022*
