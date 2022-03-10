@@ -13,6 +13,11 @@ For a curated list of the best resources, visit the [main Resources page](https:
 - https://inclusivepublishing.org/blog/the-important-role-of-the-editor-in-making-science-accessible/
 - Reader Expectation Approach championed by George Gopen
 - [The Science of Scientific Writing](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) by George Gopen and Judith Swan. Media article, 1990. 
+- [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/). Online article, 2022.
+- Tweet on science papers as letters: https://twitter.com/mattecapu/status/1471482383610359810?s=20&t=zWw3Bk5d1OC4-N2E3KI2Fw
+- Tweet by Devon Powers: https://twitter.com/devjpow/status/1495114689860231169
+- Book by Helen Sword: https://www.amazon.ca/Stylish-Academic-Writing-Helen-Sword/dp/0674064488
+- [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) (2019), and [Hacker News discussion from 2022](https://news.ycombinator.com/item?id=30611829)
 
 ## Highly relevant 
 - [The readability of scientific texts is decreasing over time](https://elifesciences.org/articles/27725). Academic paper, 2017. Data analysis on science abstracts over time.
