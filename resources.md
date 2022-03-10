@@ -32,7 +32,8 @@ For resources produced by JAWWS, head to the [blog section](https://jawws.org/bl
 - [Ideas on how to improve scientific research](https://barmstrong.medium.com/ideas-on-how-to-improve-scientific-research-9e2e56474132), by the founder of Coinbase, Brian Armstrong. Inspired the founding of ResearchHub.
 
 ### Books
-- [*Making Nature*](https://www.google.com/books/edition/Making_Nature/bqcQCgAAQBAJ), on the history of the top journal *Nature*.
+- [*The Sense of Style*](https://en.wikipedia.org/wiki/The_Sense_of_Style), by Steven Pinker. An excellent style guide for (among other things) academic writing in English. [Read my review](https://jawws.org/blog/2022/03/09/book-review-sense-of-style.html).
+- [*Making Nature*](https://www.google.com/books/edition/Making_Nature/bqcQCgAAQBAJ), by Melinda Baldwin, on the history of the top journal *Nature*. (My review coming soon!)
 
 ### Twitter
 - [Cory Doctorow on the scam of scientific publishing in general](https://twitter.com/doctorow/status/1453753539726094341?s=20).
