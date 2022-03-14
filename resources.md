@@ -6,7 +6,7 @@ title: Resources
 
 This page contains curated links to various web resources about science publishing and writing style. It will be updated over time. 
 
-For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/). A longer, less curated list of resources [is also available here](https://jawws.org/more-resources/).
+For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/). A longer, less curated list of resources [is also available here](https://docs.google.com/document/d/1Ojp_jVT58b6ZN-nKTyU3mzSSsmbTB-Y-AnPTXKvsAIM/edit).
 
 ## Reading
 ### Literature on science publishing and communication
@@ -30,6 +30,7 @@ For resources produced by JAWWS, head to the [blog section](https://jawws.org/bl
 ### Other articles
 - [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science) A 2017 journalism piece on the history of science publishing, focussing on tycoon Robert Maxwell.
 - [Ideas on how to improve scientific research](https://barmstrong.medium.com/ideas-on-how-to-improve-scientific-research-9e2e56474132), by the founder of Coinbase, Brian Armstrong. Inspired the founding of ResearchHub.
+- [My 10-year battle with 10-page PDFs](https://qantarot.substack.com/p/10-page-pdfs). A personal anecdote from Nikola Stikov on the opportunity cost of writing papers as opposed to shorter contributions.
 
 ### Books
 - [*The Sense of Style*](https://en.wikipedia.org/wiki/The_Sense_of_Style), by Steven Pinker. An excellent style guide for (among other things) academic writing in English. [Read my review](https://jawws.org/blog/2022/03/09/book-review-sense-of-style.html).
@@ -61,4 +62,4 @@ For resources produced by JAWWS, head to the [blog section](https://jawws.org/bl
 
 <br>
 
-*Last updated: 11 February 2022*
+*Last updated: 14 March 2022*
