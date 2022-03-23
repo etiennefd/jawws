@@ -46,5 +46,16 @@
   <meta name="twitter:image" content="{{ site.title_image }}">
   {% endif %}
   <!-- end of Twitter cards -->
+  
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="{{ page.excerpt | strip_html }}"/>
+  {% else %}
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ site.description }}">
+  {% endif %}
+  
   {% seo %}
 </head>
