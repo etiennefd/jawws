@@ -3,6 +3,7 @@ layout: post
 title:  "Book Review: The Sense of Style"
 date:   2022-03-09 13:46:31 -0500
 categories: blog
+image: https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F55394bf8-d7b0-487c-a920-3c9938dd798e_4032x3024.jpeg
 ---
 
 _This book review was first published on [Atlas of Wonders and Monsters](https://etiennefd.substack.com/p/book-review-the-sense-of-style)._
