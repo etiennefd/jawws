@@ -21,7 +21,7 @@
 title: JAWWS
 email: contact@etiennefd.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Making science more readable to accelerating progress.
+  Making science more readable to accelerate progress.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jawws.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: etiennefd
