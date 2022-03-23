@@ -3,7 +3,7 @@ layout: post
 title: "Browsing Paper Copies of Nature and Science"
 date: 2022-03-22 22:00:00 -0400
 categories: blog
-image: /assets/images/nature-science.png
+image: "/assets/images/nature-science.png"
 ---
 
 
