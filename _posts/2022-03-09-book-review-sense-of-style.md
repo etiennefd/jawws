@@ -70,7 +70,7 @@ Two concepts from cognitive science support Pinker’s arguments: chunking and f
 
 [![Crab Nebula.jpg](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5aba397c-49eb-44a4-ba69-2100d1f7fcb2_1920x1920.jpeg "Crab Nebula.jpg")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5aba397c-49eb-44a4-ba69-2100d1f7fcb2_1920x1920.jpeg)
 
-*And now thanks to this visual support you are even more likely to remember this string of six digits forever! (At least, *I* am.)*
+*And now thanks to this visual support you are even more likely to remember this string of six digits forever! (At least,* I *am.)*
 
 Chunking explains one of the ways the curse of knowledge afflicts us: it’s because we don’t all have the same chunks. If I want you to learn my passcode and I tell you “the date of the Crab Nebula supernova,” but you have no idea what a supernova even is, then I have failed to consider what you don’t know. The chunk I use is not one that you have in your mind. And if you don’t care about history or supernovae, it might be difficult for you to properly package it into something useful.
 
