@@ -31,6 +31,7 @@ For resources produced by JAWWS, head to the [blog section](https://jawws.org/bl
 - [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science) A 2017 journalism piece on the history of science publishing, focussing on tycoon Robert Maxwell.
 - [Ideas on how to improve scientific research](https://barmstrong.medium.com/ideas-on-how-to-improve-scientific-research-9e2e56474132), by the founder of Coinbase, Brian Armstrong. Inspired the founding of ResearchHub.
 - [My 10-year battle with 10-page PDFs](https://qantarot.substack.com/p/10-page-pdfs). A personal anecdote from Nikola Stikov on the opportunity cost of writing papers as opposed to shorter contributions.
+- The big idea: should we get rid of the scientific paper?](https://www.theguardian.com/books/2022/apr/11/the-big-idea-should-we-get-rid-of-the-scientific-paper)
 
 ### Books
 - [*The Sense of Style*](https://en.wikipedia.org/wiki/The_Sense_of_Style), by Steven Pinker. An excellent style guide for (among other things) academic writing in English. [Read my review](https://jawws.org/blog/2022/03/09/book-review-sense-of-style.html).
