@@ -6,14 +6,14 @@ title: Resources
 
 This page contains curated links to various web resources about science publishing and writing style. It will be updated over time. 
 
-For resources produced by JAWWS, head to the [blog section](https://jawws.org/blog/). A longer, less curated list of resources [is also available here](https://docs.google.com/document/d/1Ojp_jVT58b6ZN-nKTyU3mzSSsmbTB-Y-AnPTXKvsAIM/edit).
+For resources produced by JAWWS, head to the [blog](https://jawws.substack.com/). A longer, less curated list of resources [is also available here](https://docs.google.com/document/d/1Ojp_jVT58b6ZN-nKTyU3mzSSsmbTB-Y-AnPTXKvsAIM/edit).
 
 ## Reading
 ### Literature on science publishing and communication
 - [The readability of scientific texts is decreasing over time](https://elifesciences.org/articles/27725). This 2017 study analyzed 700,000 abstracts from the past 140 years and concluded that readability, as measured by standard formulas using things like number of words per sentence and use of jargon, has steadily decreased.
 - [You have to read this](https://www.nature.com/articles/s41562-021-01221-6). A 2021 comment in *Nature Human Behaviour* arguing that narrative writing should be used in science papers.
 - [Does it take too long to publish research?](https://www.nature.com/articles/530148a) From the news section of *Nature* in 2016.
-- [Writing Accessible Theory in Ecology and Evolution: Insights from Cognitive Load Theory](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biab133/6482999?redirectedFrom=fulltext). Recent paper from 2022 on ways to ease communication from biological theoreticians (who use a lot of math) to empiricists (who aren't always super familiar with math). Generalizes well, and provides useful discussion on cognitive load theory. [Read my review](https://jawws.org/blog/2022/01/15/writing-accessible-theory-ecology-evolution.html).
+- [Writing Accessible Theory in Ecology and Evolution: Insights from Cognitive Load Theory](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biab133/6482999?redirectedFrom=fulltext). Recent paper from 2022 on ways to ease communication from biological theoreticians (who use a lot of math) to empiricists (who aren't always super familiar with math). Generalizes well, and provides useful discussion on cognitive load theory. [Read my review](https://jawws.substack.com/p/paper-review-writing-accessible-theory).
 
 ### Style guides
 - [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) by Scott Alexander. Not intended for science necessarily, but very useful in any case.
@@ -34,7 +34,7 @@ For resources produced by JAWWS, head to the [blog section](https://jawws.org/bl
 - The big idea: should we get rid of the scientific paper?](https://www.theguardian.com/books/2022/apr/11/the-big-idea-should-we-get-rid-of-the-scientific-paper)
 
 ### Books
-- [*The Sense of Style*](https://en.wikipedia.org/wiki/The_Sense_of_Style), by Steven Pinker. An excellent style guide for (among other things) academic writing in English. [Read my review](https://jawws.org/blog/2022/03/09/book-review-sense-of-style.html).
+- [*The Sense of Style*](https://en.wikipedia.org/wiki/The_Sense_of_Style), by Steven Pinker. An excellent style guide for (among other things) academic writing in English. [Read my review](https://etiennefd.substack.com/p/book-review-the-sense-of-style).
 - [*Making Nature*](https://www.google.com/books/edition/Making_Nature/bqcQCgAAQBAJ), by Melinda Baldwin, on the history of the top journal *Nature*. (My review coming soon!)
 
 ### Twitter
